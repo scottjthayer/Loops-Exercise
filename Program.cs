@@ -31,10 +31,24 @@ namespace Day2Exercise
                 if (userInput == "no")
                 {
                     runProgram = false;
-                }
-             
-              
-            }    
+                }                             
+            }
+
+            /*Create a variable called sum. Its an int and starts at 0
+            create a for loop that starts at 0 and goes up to 5
+            as you are looping, Add the values to sum
+            after the loop, display the sum 
+            (hint: it should equal out to 15 at the end)*/
+
+            int sum = 0;
+
+            for (int i = 0; i <= 5; i++)
+            {
+                sum += i;
+            }
+
+            Console.WriteLine(sum);
+
         }
     }
 }
