@@ -1,0 +1,14 @@
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\bin\Debug\netcoreapp3.1\Day2Exercise.exe
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\bin\Debug\netcoreapp3.1\Day2Exercise.deps.json
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\bin\Debug\netcoreapp3.1\Day2Exercise.runtimeconfig.json
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\bin\Debug\netcoreapp3.1\Day2Exercise.runtimeconfig.dev.json
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\bin\Debug\netcoreapp3.1\Day2Exercise.dll
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\bin\Debug\netcoreapp3.1\Day2Exercise.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\obj\Debug\netcoreapp3.1\Day2Exercise.csproj.AssemblyReference.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\obj\Debug\netcoreapp3.1\Day2Exercise.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\obj\Debug\netcoreapp3.1\Day2Exercise.AssemblyInfoInputs.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\obj\Debug\netcoreapp3.1\Day2Exercise.AssemblyInfo.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\obj\Debug\netcoreapp3.1\Day2Exercise.csproj.CoreCompileInputs.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\obj\Debug\netcoreapp3.1\Day2Exercise.dll
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\obj\Debug\netcoreapp3.1\Day2Exercise.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Day2Exercise\obj\Debug\netcoreapp3.1\Day2Exercise.genruntimeconfig.cache
